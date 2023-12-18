@@ -1,6 +1,6 @@
 ![MasterHead](https://www.stemlink.online/blog/technology/data%20science.jpg)
 <h1 align="center">Hi 👋, I'm David Zucchet</h1>
-<h3 align="center">A passionate Data Scientist from Colombia</h3>
+<h3 align="center">A passionate Data Scientist with Finance Background</h3>
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d34f3b422c048fb72cb925_Analyze.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidzucchet&label=Profile%20views&color=0e75b6&style=flat" alt="davidzucchet" /> </p>
 
