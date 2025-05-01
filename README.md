@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d34f3b422c048fb72cb925_Analyze.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidzucchet&label=Profile%20views&color=0e75b6&style=flat" alt="davidzucchet" /> </p>
 
-- 🌱 I’m currently learning **Basics of Web Development**
+- 🌱 I’m currently learning **AI Agents**
 
 - 💬 Ask me about **Data Science, ML, Python, Excel, Finance**
 
