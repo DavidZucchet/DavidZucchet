@@ -1,12 +1,12 @@
 ![MasterHead](https://www.stemlink.online/blog/technology/data%20science.jpg)
 <h1 align="center">Hi 👋, I'm David Zucchet</h1>
-<h3 align="center">A passionate Data Scientist with Finance Background</h3>
+<h3 align="center">A passionate Data Scientist and AI Engineer with Finance Background</h3>
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d34f3b422c048fb72cb925_Analyze.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidzucchet&label=Profile%20views&color=0e75b6&style=flat" alt="davidzucchet" /> </p>
 
-- 🌱 I’m currently learning **AI Agents**
+- 🌱 I’m currently learning **MCP and A2A**
 
-- 💬 Ask me about **Data Science, ML, Python, Excel, Finance**
+- 💬 Ask me about **Data Science, AI Agents, LLM, ML, Python, Excel, Financial Risk, Corporate Finance**
 
 - 📫 How to reach me **davidzucchet@gmail.com**
 
